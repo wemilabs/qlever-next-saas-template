@@ -1,4 +1,4 @@
-# Qlever Next SaaS Template
+# The Qlever Stack
 
 A modern, full-featured SaaS boilerplate built with Next.js, React, TypeScript, Tailwind CSS, and PostgreSQL. This template provides a solid foundation for building production-ready SaaS applications with best practices and modern tools.
 
